@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <watchingpath>Files</watchingpath>
+  <address>kritsky.test@gmail.com</address>
+  <messageBody>Новый файл</messageBody>
+  <messageSubject>Новый файл</messageSubject>
+  <displayName>FileInformer</displayName>
+  <host>smtp.gmail.com</host>
+  <port>587</port>
+</settings>
